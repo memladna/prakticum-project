@@ -1,0 +1,8 @@
+
+@import url(./_width_250/table__cell_width_250.css);
+@import url(./_width_200/table__cell_width_200.css);
+
+.table__cell {
+    margin-top: 60px;
+    z-index: 2;
+  }
